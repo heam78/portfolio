@@ -155,4 +155,10 @@ $(document).ready(function () {
   $(".reacGit").click(function () {
     window.open("https://github.com/heam78/locknlock-reac");
   });
+  $(".iloom").click(function () {
+    window.open("https://heam78.github.io/iloom/");
+  });
+  $(".iloomGit").click(function () {
+    window.open("https://github.com/heam78/iloom");
+  });
 });
